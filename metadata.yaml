@@ -1,0 +1,42 @@
+_repo: Her-BennyA-Story-of-Street-Life_43325
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Tuck, Harry
+    gutenberg_agent_id: '42136'
+    url: http://www.gutenberg.org/2009/agents/42136
+covers:
+- cover_type: archival
+  image_path: 43325-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hocking, Silas K. (Silas Kitto)
+    alias: Hocking, Silas Kitto
+    birthdate: 1850
+    deathdate: 1935
+    gutenberg_agent_id: '38239'
+    url: http://www.gutenberg.org/2009/agents/38239
+    wikipedia: http://en.wikipedia.org/wiki/Silas_Hocking
+description: ''
+gutenberg_issued: '2013-07-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43325'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Farms -- Juvenile fiction'
+- !lcsh 'Accidents -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcsh 'Street life -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcc 'PZ'
+- !lcsh 'Diligence -- Juvenile fiction'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+title: 'Her Benny: A Story of Street Life'
+url: http://www.gutenberg.org/ebooks/43325
